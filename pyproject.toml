@@ -1,2 +1,2 @@
 [tool.fastapi]
-entrypoint = "query:app"
+entrypoint = "request-body:app"
